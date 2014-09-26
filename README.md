@@ -7,7 +7,8 @@ LeetCode，OJ系统，不用多说，国外的，题目也非常好，只有精�
 
 本栏目记录我对LeetCode题目的解题思路与完整程序，程序都是已经被系统接受的，并且在我的网站上也可以正确执行。
 
-所有源码也同时发布在GitHub:[https://github.com/homeway88/leetcode](https://github.com/homeway88/leetcode "https://github.com/homeway88/leetcode")
+网站地址：[http://www.coderblog.cn/category/6-leetcode/](http://www.coderblog.cn/category/6-leetcode/ "http://www.coderblog.cn/category/6-leetcode/")
 
+所有源码也同时发布在GitHub:[https://github.com/homeway88/leetcode](https://github.com/homeway88/leetcode "https://github.com/homeway88/leetcode")
 
 LeetCode OJ：[http://oj.leetcode.com/](http://oj.leetcode.com/ "http://oj.leetcode.com/")
